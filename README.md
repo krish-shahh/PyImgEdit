@@ -8,9 +8,13 @@ Implementation of Python Photo Editor
 
 *example of using from terminal:*
 
+Step 1: install all packages use 
 ```bash
-Step 1: install all packages use **pip3 install -r requirements.txt**
-Step 2: run program using **python photo_editor.py**
+pip3 install -r requirements.txt
+```
+Step 2: run program using 
+```bash
+python photo_editor.py
 ```
 
 ```bash
