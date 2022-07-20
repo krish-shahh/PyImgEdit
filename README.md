@@ -1,8 +1,8 @@
 # Python Photo Editor
 
 Implementation of Python Photo Editor
-*
-*setup**
+
+**setup**
 
 Step 1: install all packages use 
 ```bash
