@@ -4,10 +4,6 @@ Implementation of Python Photo Editor
 
 *setup*
 
-
-
-*example of using from terminal:*
-
 Step 1: install all packages use 
 ```bash
 pip3 install -r requirements.txt
@@ -16,6 +12,7 @@ Step 2: run program using
 ```bash
 python photo_editor.py
 ```
+*example of using from terminal:*
 
 ```bash
 python3 img_modifier.py -p temp.jpg color_filter=sepia --rotate=45 --resize=200,300
