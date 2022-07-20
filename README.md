@@ -1,8 +1,15 @@
-# Photo Editor
+# Python Photo Editor
 
-Implementation of simple photo editor
+Implementation of Python Photo Editor
+
+*setup*
+
+
 
 *example of using from terminal:*
+
+Step 1: install all packages use **pip3 install -r requirements.txt**
+Step 2: run program using **python photo_editor.py**
 
 ```bash
 python3 img_modifier.py -p temp.jpg color_filter=sepia --rotate=45 --resize=200,300
@@ -26,11 +33,3 @@ Use **PyInstaller** to convert it
 **used libs:**
 - Pillow (PIL)
 - PyQt5
-
-to install all packages use **pip3 install -r requirements.txt**
-
-> !this application was made as a training app so it can have bugs and bad optimization.
-
-windows version:
-
-![ScreenShot](https://github.com/shkolovy/simple-photo-editor/blob/master/win-version.png)
