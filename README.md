@@ -2,6 +2,8 @@
 
 Implementation of Python Photo Editor
 
+Photo editing GUI that allows users to upload images from their local device storage, overlaying filters, adjusting contrast, brightness, and sharpness; modifying width \& height (with aspect ratio change), changing orientation of the image (rotation \& axis), buttons to reset image changes and save edited images to file location of the users' choice.
+
 **setup**
 
 Step 1: install all packages use 
